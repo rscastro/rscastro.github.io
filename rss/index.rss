@@ -1,4 +1,16 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>waddup. i blog and stuff</title><description>waddup. i blog and stuff</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Wed, 25 Nov 2015 06:44:08 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>First blog post!</title><description>&lt;p&gt;This is my first blog post... EVER!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>waddup. i blog and stuff</title><description>waddup. i blog and stuff</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 29 Nov 2015 22:10:16 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Journey to Hack Reactor</title><description>&lt;p&gt;My story isn't too different from any other Hack Reactor student, so I'll keep this brief! I'll put it in list form as well:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;After graduating from undergrad, I spent the past 2.5 years working for a SaaS company that provides a business intelligence tool to highly complex industries.&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/journey-to-hack-reactor/</link><guid isPermaLink="false">14a1617e-f791-40e2-ac29-2cb063f5f233</guid><dc:creator>Richard Castro</dc:creator><pubDate>Sun, 29 Nov 2015 22:02:45 GMT</pubDate><content:encoded>&lt;p&gt;My story isn't too different from any other Hack Reactor student, so I'll keep this brief! I'll put it in list form as well:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;After graduating from undergrad, I spent the past 2.5 years working for a SaaS company that provides a business intelligence tool to highly complex industries. After 2.5 years of working in the same position, I decided to fully commit into studying web development by applying for Hack Reactor. &lt;br&gt;  &lt;/li&gt;
+&lt;li&gt;The application process was quick, and I scheduled for my technical interview to occur the following week after I submitted my application.  &lt;/li&gt;
+&lt;li&gt;The study material HR gave to us to study for the technical interview was on point. Everything we needed to know conceptually was somewhere in the study material.  &lt;/li&gt;
+&lt;li&gt;After a bit of freaking out because I wasn't contacted for over a week, I finally received an offer to join the November 16, 2015 cohort a little over a week later. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Looking back at it all, I think I got pretty lucky with the entire process. Aside from my worrying that I wouldn't get in for the better part of a week, there were no hiccups in the process and the timing could not have been better. Hashtag blessed.&lt;/p&gt;</content:encoded></item><item><title>First blog post!</title><description>&lt;p&gt;This is my first blog post... EVER!&lt;/p&gt;
 
 &lt;p&gt;Over the next few months, I'll primarily be blogging about my experiences involving Hack Reactor and web development. &lt;/p&gt;
 
